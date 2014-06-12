@@ -1,2 +1,2 @@
-test shmig12345678910
+test shmig120
 ====
